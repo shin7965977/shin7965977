@@ -96,8 +96,8 @@ AI-powered incident diagnostics and telemetry agent for Slack, integrated with G
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=shin7965977&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F122722203%3Fv%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=shin7965977&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F122722203%3Fv%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="GitHub language distribution" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=shin7965977&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F122722203%3Fv%3D4&v=recruiter-stack-2&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=shin7965977&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F122722203%3Fv%3D4&v=recruiter-stack-2&mode=dark" width="100%" alt="GitHub language distribution" />
 </picture>
 </p>
 
