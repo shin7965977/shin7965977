@@ -1,34 +1,20 @@
-<div align="center">
+# Hi 👋, I'm shin7965977
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · shin7965977</sub></p>
-<h1>shin7965977</h1>
-<h2>Backend or systems engineer</h2>
-<p>Building useful software and sharing the work in public.</p>
-<p><strong>● Building and sharing work in public</strong></p>
+### A passionate Python developer
 
-<p><a href="https://github.com/shin7965977">GitHub</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/122722203?v=4" width="180" alt="shin7965977 GitHub avatar" />
-</td>
-</tr>
-</table>
-</div>
+- 🔭 I'm currently working on **analtics engineering, data engineering**
 
-<h2>What teams can evaluate quickly</h2>
+- 🌱 I'm currently learning **Data contracts (Pydantic), Apache Iceberg, and AI-ready semantic layer architecture with FastMCP.**
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Backend or systems engineer · Jupyter Notebook · Python · LookML</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>16 repositories · 1 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>323 contributions · 34 active days</p></td>
-</tr>
-</table>
+- 👯 I'm looking to collaborate on **Open-source dbt-core packages, Medallion Lakehouse projects (DuckDB/BigQuery), and ELT pipeline automation.**
 
-<p><sub>Building useful software and sharing the work in public.</sub></p>
+- 🤝 I'm looking for help with **Scaling real-time event streaming and petabyte-scale cloud data warehouse cost optimization.**
+
+- 💬 Ask me about **dbt modeling, Kimball star schemas, DuckDB in-process OLAP, Airflow ELT pipelines, and data quality testing.**
+
+- 📫 How to reach me **shin7965977@gmail.com or via LinkedIn: linkedin.com/in/chen-yu-liu-2a2910164**
+
+- 👨‍💻 All of my projects are available at **[https://github.com/shin7965977](https://github.com/shin7965977)**
 
 <h2>Proof at a glance</h2>
 
