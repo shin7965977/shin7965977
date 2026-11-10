@@ -2,8 +2,6 @@
 
 ### A passionate Python developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shin7965977&label=Profile views&color=0e75b6&style=flat" alt="shin7965977" /> </p>
-
 - 🔭 I'm currently working on **analtics engineering, data engineering**
 
 - 🌱 I'm currently learning **Data contracts (Pydantic), Apache Iceberg, and AI-ready semantic layer architecture with FastMCP.**
